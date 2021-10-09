@@ -1,0 +1,600 @@
+
+2021-10-08/16:19:11:	Preparing for obtaining user input.'
+
+2021-10-08/16:19:11:	Exception occured while obtaining user input. Exception : 'ImmutableMultiDict' object is not callable
+
+2021-10-08/16:19:11:	Failed to obtain user input.
+
+2021-10-08/16:22:52:	Preparing for obtaining user input.'
+
+2021-10-08/16:22:52:	User input obtained successfully.
+
+2021-10-08/16:25:54:	Preparing for obtaining user input.'
+
+2021-10-08/16:25:54:	User input obtained successfully.
+
+2021-10-08/16:25:54:	Exception occured during creation of 'test.csv'. Exception : If using all scalar values, you must pass an index
+
+2021-10-08/16:25:54:	Failed to create 'test.csv'
+
+2021-10-08/16:31:51:	Preparing for obtaining user input.'
+
+2021-10-08/16:31:51:	User input obtained successfully.
+
+2021-10-08/16:31:51:	Exception occured during creation of 'test.csv'. Exception : name 'UserInput' is not defined
+
+2021-10-08/16:31:51:	Failed to create 'test.csv'
+
+2021-10-08/16:34:07:	Preparing for obtaining user input.'
+
+2021-10-08/16:34:07:	User input obtained successfully.
+
+2021-10-08/16:34:07:	Exception occured during creation of 'test.csv'. Exception : name 'UserInput' is not defined
+
+2021-10-08/16:34:07:	Failed to create 'test.csv'
+
+2021-10-08/16:35:20:	Preparing for obtaining user input.'
+
+2021-10-08/16:35:20:	User input obtained successfully.
+
+2021-10-08/16:35:20:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:35:20:	Exception occured while cleaning user input. Exception : cleanData() got an unexpected keyword argument 'file'
+
+2021-10-08/16:35:20:	Failed to clean user input.
+
+2021-10-08/16:36:55:	Preparing for obtaining user input.'
+
+2021-10-08/16:36:55:	User input obtained successfully.
+
+2021-10-08/16:36:55:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:36:55:	Exception occured while cleaning user input. Exception : 'str' object has no attribute 'logfile_path'
+
+2021-10-08/16:36:55:	Failed to clean user input.
+
+2021-10-08/16:38:09:	Preparing for obtaining user input.'
+
+2021-10-08/16:38:09:	User input obtained successfully.
+
+2021-10-08/16:38:09:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:38:09:	Exception occured while cleaning user input. Exception : I/O operation on closed file.
+
+2021-10-08/16:38:09:	Failed to clean user input.
+
+2021-10-08/16:40:04:	Preparing for obtaining user input.'
+
+2021-10-08/16:40:04:	User input obtained successfully.
+
+2021-10-08/16:40:04:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:40:04:	Exception occured while cleaning user input. Exception : cleanData() missing 1 required positional argument: 'self'
+
+2021-10-08/16:40:04:	Failed to clean user input.
+
+2021-10-08/16:43:28:	Preparing for obtaining user input.'
+
+2021-10-08/16:43:28:	User input obtained successfully.
+
+2021-10-08/16:43:28:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:43:28:	Exception occured while cleaning user input. Exception : cleanData() missing 1 required positional argument: 'self'
+
+2021-10-08/16:43:28:	Failed to clean user input.
+
+2021-10-08/16:47:10:	Preparing for obtaining user input.'
+
+2021-10-08/16:47:10:	User input obtained successfully.
+
+2021-10-08/16:47:10:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:47:10:	Exception occured while cleaning user input. Exception : cleanData() missing 1 required positional argument: 'self'
+
+2021-10-08/16:47:10:	Failed to clean user input.
+
+2021-10-08/16:55:01:	Preparing for obtaining user input.'
+
+2021-10-08/16:55:01:	User input obtained successfully.
+
+2021-10-08/16:55:01:	Successfully converted User input to 'test.csv'.
+
+2021-10-08/16:55:01:	Exception occured while cleaning user input. Exception : cleanData() missing 1 required positional argument: 'self'
+
+2021-10-08/16:55:01:	Failed to clean user input.
+
+2021-10-08/17:44:25:	Preparing for obtaining user input.'
+
+2021-10-08/17:44:25:	User input obtained successfully.
+
+2021-10-08/17:47:29:	Preparing for obtaining user input.'
+
+2021-10-08/17:47:29:	User input obtained successfully.
+
+2021-10-08/17:49:02:	Preparing for obtaining user input.'
+
+2021-10-08/17:49:02:	User input obtained successfully.
+
+2021-10-08/17:51:31	Preparing for obtaining user input.'
+
+2021-10-08/17:51:31	User input obtained successfully.
+
+2021-10-08/17:57:14	Preparing for obtaining user input.'
+
+2021-10-08/17:57:14	User input obtained successfully.
+
+2021-10-08/18:00:17	Preparing for obtaining user input.'
+
+2021-10-08/18:00:17	User input obtained successfully.
+
+2021-10-08/18:00:17	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:00:17	Exception occured while cleaning user input. Exception : I/O operation on closed file.
+
+2021-10-08/18:00:17	Failed to clean user input.
+
+2021-10-08/18:03:26	Preparing for obtaining user input.'
+
+2021-10-08/18:03:26	User input obtained successfully.
+
+2021-10-08/18:03:26	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:03:26	Exception occured while cleaning user input. Exception :I/O operation on closed file.
+
+2021-10-08/18:03:26	Failed to clean user input.
+
+2021-10-08/18:06:04	Preparing for obtaining user input.'
+
+2021-10-08/18:06:04	User input obtained successfully.
+
+2021-10-08/18:06:04	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:06:04	Exception occured while cleaning user input. Exception :I/O operation on closed file.
+
+2021-10-08/18:06:04	Failed to clean user input.
+
+2021-10-08/18:11:30	Preparing for obtaining user input.'
+
+2021-10-08/18:11:30	User input obtained successfully.
+
+2021-10-08/18:11:30	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:11:30	Exception occured while cleaning user input. Exception :I/O operation on closed file.
+
+2021-10-08/18:11:30	Failed to clean user input.
+
+2021-10-08/18:14:55	Preparing for obtaining user input.'
+
+2021-10-08/18:14:55	User input obtained successfully.
+
+2021-10-08/18:14:55	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:14:55	Exception occured while cleaning user input. Exception :I/O operation on closed file.
+
+2021-10-08/18:14:55	Failed to clean user input.
+
+2021-10-08/18:22:12	Preparing for obtaining user input.'
+
+2021-10-08/18:22:12	User input obtained successfully.
+
+2021-10-08/18:22:12	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:22:12	Exception occured while cleaning user input. Exception :I/O operation on closed file.
+
+2021-10-08/18:22:12	Failed to clean user input.
+
+2021-10-08/18:24:25	Preparing for obtaining user input.'
+
+2021-10-08/18:24:25	User input obtained successfully.
+
+2021-10-08/18:24:25	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:24:25	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:24:25	Failed to clean user input.
+
+2021-10-08/18:26:26	Preparing for obtaining user input.'
+
+2021-10-08/18:26:26	User input obtained successfully.
+
+2021-10-08/18:26:26	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:26:26	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:26:26	Failed to clean user input.
+
+2021-10-08/18:27:12	Preparing for obtaining user input.'
+
+2021-10-08/18:27:12	User input obtained successfully.
+
+2021-10-08/18:27:12	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:27:12	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:27:12	Failed to clean user input.
+
+2021-10-08/18:32:37	Preparing for obtaining user input.'
+
+2021-10-08/18:32:37	User input obtained successfully.
+
+2021-10-08/18:32:37	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:32:37	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:32:37	Failed to clean user input.
+
+2021-10-08/18:38:52	Preparing for obtaining user input.'
+
+2021-10-08/18:38:52	User input obtained successfully.
+
+2021-10-08/18:38:52	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:38:52	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:38:52	Failed to clean user input.
+
+2021-10-08/18:39:23	Preparing for obtaining user input.'
+
+2021-10-08/18:39:23	User input obtained successfully.
+
+2021-10-08/18:39:23	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:39:23	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:39:23	Failed to clean user input.
+
+2021-10-08/18:39:23	Preparing for obtaining user input.'
+
+2021-10-08/18:39:23	User input obtained successfully.
+
+2021-10-08/18:39:23	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:39:23	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:39:23	Failed to clean user input.
+
+2021-10-08/18:44:21	Preparing for obtaining user input.'
+
+2021-10-08/18:44:21	User input obtained successfully.
+
+2021-10-08/18:44:21	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:44:21	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:44:21	Failed to clean user input.
+
+2021-10-08/18:48:53	Preparing for obtaining user input.'
+
+2021-10-08/18:48:53	User input obtained successfully.
+
+2021-10-08/18:48:53	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:48:53	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:48:53	Failed to clean user input.
+
+2021-10-08/18:50:19	Preparing for obtaining user input.'
+
+2021-10-08/18:50:19	User input obtained successfully.
+
+2021-10-08/18:50:19	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:50:19	Exception occured while cleaning user input. Exception :
+
+2021-10-08/18:50:19	Failed to clean user input.
+
+2021-10-08/18:51:56	Preparing for obtaining user input.'
+
+2021-10-08/18:51:56	User input obtained successfully.
+
+2021-10-08/18:51:56	Successfully converted User input to 'test.csv'.
+
+2021-10-08/18:51:56	Successfully cleaned user input.
+
+2021-10-08/18:51:56	Successfully loaded the model for prediction.
+
+2021-10-08/18:51:56	Exception occured while predicting the output. Exception :matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 8)
+
+2021-10-08/18:51:56	Failed to predict the output.
+
+2021-10-08/19:02:05	Preparing for obtaining user input.'
+
+2021-10-08/19:02:05	User input obtained successfully.
+
+2021-10-08/19:02:05	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:02:05	Successfully cleaned user input.
+
+2021-10-08/19:02:05	Successfully loaded the model for prediction.
+
+2021-10-08/19:02:05	Exception occured while predicting the output. Exception :matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 8)
+
+2021-10-08/19:02:05	Failed to predict the output.
+
+2021-10-08/19:17:53	Preparing for obtaining user input.'
+
+2021-10-08/19:17:53	User input obtained successfully.
+
+2021-10-08/19:17:53	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:17:53	Successfully cleaned user input.
+
+2021-10-08/19:18:01	Preparing for obtaining user input.'
+
+2021-10-08/19:18:01	User input obtained successfully.
+
+2021-10-08/19:18:01	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:18:01	Successfully cleaned user input.
+
+2021-10-08/19:23:05	Preparing for obtaining user input.'
+
+2021-10-08/19:23:05	User input obtained successfully.
+
+2021-10-08/19:23:05	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:23:05	Successfully cleaned user input.
+
+2021-10-08/19:24:05	Preparing for obtaining user input.'
+
+2021-10-08/19:24:05	User input obtained successfully.
+
+2021-10-08/19:24:05	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:24:05	Successfully cleaned user input.
+
+2021-10-08/19:24:05	Successfully loaded the scaler file.
+
+2021-10-08/19:24:05	Exception occured while standardizing. Exception :X has 8 features, but StandardScaler is expecting 32 features as input.
+
+2021-10-08/19:24:05	Failed to standardize the input data.
+
+2021-10-08/19:26:24	Preparing for obtaining user input.'
+
+2021-10-08/19:26:24	User input obtained successfully.
+
+2021-10-08/19:26:24	Successfully converted User input to 'test.csv'.
+
+2021-10-08/19:26:24	Successfully cleaned user input.
+
+2021-10-08/19:26:24	Successfully loaded the scaler file.
+
+2021-10-08/19:26:24	Exception occured while standardizing. Exception :X has 8 features, but StandardScaler is expecting 32 features as input.
+
+2021-10-08/19:26:24	Failed to standardize the input data.
+
+2021-10-08/20:09:20	Preparing for obtaining user input.'
+
+2021-10-08/20:09:20	User input obtained successfully.
+
+2021-10-08/20:09:20	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:09:20	Exception occured while cleaning user input. Exception :
+
+2021-10-08/20:09:20	Failed to clean user input.
+
+2021-10-08/20:38:21	Preparing for obtaining user input.'
+
+2021-10-08/20:38:21	User input obtained successfully.
+
+2021-10-08/20:38:21	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:38:21	Successfully cleaned user input.
+
+2021-10-08/20:38:21	Successfully loaded the scaler file.
+
+2021-10-08/20:38:21	Successfully standardized input data.
+
+2021-10-08/20:38:21	Successfully loaded the model for prediction.
+
+2021-10-08/20:38:21	Successfully predicted the output.
+
+2021-10-08/20:46:58	Preparing for obtaining user input.'
+
+2021-10-08/20:46:58	User input obtained successfully.
+
+2021-10-08/20:46:58	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:46:58	Successfully cleaned user input.
+
+2021-10-08/20:46:58	Successfully loaded the scaler file.
+
+2021-10-08/20:46:58	Successfully standardized input data.
+
+2021-10-08/20:46:58	Successfully loaded the model for prediction.
+
+2021-10-08/20:46:58	Successfully predicted the output.
+
+2021-10-08/20:49:52	Preparing for obtaining user input.'
+
+2021-10-08/20:49:52	User input obtained successfully.
+
+2021-10-08/20:49:52	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:49:52	Successfully cleaned user input.
+
+2021-10-08/20:49:52	Successfully loaded the scaler file.
+
+2021-10-08/20:49:52	Successfully standardized input data.
+
+2021-10-08/20:49:52	Successfully loaded the model for prediction.
+
+2021-10-08/20:49:52	Exception occured while predicting the output. Exception :type numpy.ndarray doesn't define __round__ method
+
+2021-10-08/20:49:52	Failed to predict the output.
+
+2021-10-08/20:51:10	Preparing for obtaining user input.'
+
+2021-10-08/20:51:10	User input obtained successfully.
+
+2021-10-08/20:51:10	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:51:10	Successfully cleaned user input.
+
+2021-10-08/20:51:10	Successfully loaded the scaler file.
+
+2021-10-08/20:51:10	Successfully standardized input data.
+
+2021-10-08/20:51:10	Successfully loaded the model for prediction.
+
+2021-10-08/20:51:10	Exception occured while predicting the output. Exception :name 'np' is not defined
+
+2021-10-08/20:51:10	Failed to predict the output.
+
+2021-10-08/20:51:30	Preparing for obtaining user input.'
+
+2021-10-08/20:51:30	User input obtained successfully.
+
+2021-10-08/20:51:30	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:51:30	Successfully cleaned user input.
+
+2021-10-08/20:51:30	Successfully loaded the scaler file.
+
+2021-10-08/20:51:30	Successfully standardized input data.
+
+2021-10-08/20:51:30	Successfully loaded the model for prediction.
+
+2021-10-08/20:53:32	Preparing for obtaining user input.'
+
+2021-10-08/20:53:32	User input obtained successfully.
+
+2021-10-08/20:53:32	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:53:32	Successfully cleaned user input.
+
+2021-10-08/20:53:32	Successfully loaded the scaler file.
+
+2021-10-08/20:53:32	Successfully standardized input data.
+
+2021-10-08/20:53:32	Successfully loaded the model for prediction.
+
+2021-10-08/20:54:01	Preparing for obtaining user input.'
+
+2021-10-08/20:54:01	User input obtained successfully.
+
+2021-10-08/20:54:01	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:54:01	Successfully cleaned user input.
+
+2021-10-08/20:54:01	Successfully loaded the scaler file.
+
+2021-10-08/20:54:01	Successfully standardized input data.
+
+2021-10-08/20:54:01	Successfully loaded the model for prediction.
+
+2021-10-08/20:54:01	Exception occured while predicting the output. Exception :name 'np' is not defined
+
+2021-10-08/20:54:01	Failed to predict the output.
+
+2021-10-08/20:54:20	Preparing for obtaining user input.'
+
+2021-10-08/20:54:20	User input obtained successfully.
+
+2021-10-08/20:54:20	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:54:20	Successfully cleaned user input.
+
+2021-10-08/20:54:20	Successfully loaded the scaler file.
+
+2021-10-08/20:54:20	Successfully standardized input data.
+
+2021-10-08/20:54:20	Successfully loaded the model for prediction.
+
+2021-10-08/20:54:20	Preparing for obtaining user input.'
+
+2021-10-08/20:54:20	User input obtained successfully.
+
+2021-10-08/20:54:20	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:54:20	Successfully cleaned user input.
+
+2021-10-08/20:54:20	Successfully loaded the scaler file.
+
+2021-10-08/20:54:20	Successfully standardized input data.
+
+2021-10-08/20:54:20	Successfully loaded the model for prediction.
+
+2021-10-08/20:58:59	Preparing for obtaining user input.'
+
+2021-10-08/20:58:59	User input obtained successfully.
+
+2021-10-08/20:58:59	Successfully converted User input to 'test.csv'.
+
+2021-10-08/20:58:59	Successfully cleaned user input.
+
+2021-10-08/20:58:59	Successfully loaded the scaler file.
+
+2021-10-08/20:58:59	Successfully standardized input data.
+
+2021-10-08/20:58:59	Successfully loaded the model for prediction.
+
+2021-10-09/09:11:52	Preparing for obtaining user input.'
+
+2021-10-09/09:11:52	User input obtained successfully.
+
+2021-10-09/09:11:52	Successfully converted User input to 'test.csv'.
+
+2021-10-09/09:11:52	Successfully cleaned user input.
+
+2021-10-09/09:11:52	Successfully loaded the scaler file.
+
+2021-10-09/09:11:52	Successfully standardized input data.
+
+2021-10-09/09:11:52	Successfully loaded the model for prediction.
+
+2021-10-09/09:16:10	Preparing for obtaining user input.'
+
+2021-10-09/09:16:10	User input obtained successfully.
+
+2021-10-09/09:16:10	Successfully converted User input to 'test.csv'.
+
+2021-10-09/09:16:10	Successfully cleaned user input.
+
+2021-10-09/09:16:10	Successfully loaded the scaler file.
+
+2021-10-09/09:16:10	Successfully standardized input data.
+
+2021-10-09/09:16:10	Successfully loaded the model for prediction.
+
+2021-10-09/09:37:33	Preparing for obtaining user input.'
+
+2021-10-09/09:37:33	User input obtained successfully.
+
+2021-10-09/09:37:33	Successfully converted User input to 'test.csv'.
+
+2021-10-09/09:37:33	Successfully cleaned user input.
+
+2021-10-09/09:37:33	Successfully loaded the scaler file.
+
+2021-10-09/09:37:33	Successfully standardized input data.
+
+2021-10-09/09:37:33	Successfully loaded the model for prediction.
+
+2021-10-09/09:39:39	Preparing for obtaining user input.'
+
+2021-10-09/09:39:39	User input obtained successfully.
+
+2021-10-09/09:39:39	Successfully converted User input to 'test.csv'.
+
+2021-10-09/09:39:39	Successfully cleaned user input.
+
+2021-10-09/09:39:39	Successfully loaded the scaler file.
+
+2021-10-09/09:39:39	Successfully standardized input data.
+
+2021-10-09/09:39:39	Successfully loaded the model for prediction.
+
+2021-10-09/10:21:48	Preparing for obtaining user input.'
+
+2021-10-09/10:21:48	User input obtained successfully.
+
+2021-10-09/10:21:48	Successfully converted User input to 'test.csv'.
+
+2021-10-09/10:21:48	Successfully cleaned user input.
+
+2021-10-09/10:21:48	Successfully loaded the scaler file.
+
+2021-10-09/10:21:48	Successfully standardized input data.
+
+2021-10-09/10:21:48	Successfully loaded the model for prediction.

@@ -1,0 +1,502 @@
+
+2021-10-08/16:38:09:	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/16:38:09:	Data loaded successfully as a dataframe.
+
+2021-10-08/18:00:24	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:00:24	Data loaded successfully as a dataframe.
+
+2021-10-08/18:03:33	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:03:33	Data loaded successfully as a dataframe.
+
+2021-10-08/18:06:12	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:06:12	Data loaded successfully as a dataframe.
+
+2021-10-08/18:06:12	Data type conversion of 'INDUS', 'RM', 'RAD' performed successfully.
+
+2021-10-08/18:11:39	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:11:39	Data loaded successfully as a dataframe.
+
+2021-10-08/18:11:39	Data type conversion of 'INDUS', 'RM', 'RAD' performed successfully.
+
+2021-10-08/18:15:02	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:15:02	Data loaded successfully as a dataframe.
+
+2021-10-08/18:15:02	Data type conversion performed successfully.
+
+2021-10-08/18:22:21	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:22:21	Data loaded successfully as a dataframe.
+
+2021-10-08/18:22:21	Data type conversion performed successfully.
+
+2021-10-08/18:24:32	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:24:32	Data loaded successfully as a dataframe.
+
+2021-10-08/18:24:32	Data type conversion performed successfully.
+
+2021-10-08/18:24:32	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:24:32	Exception while performing BoxCox transformation'. Exception :Data must not be constant.
+
+2021-10-08/18:24:32	BoxCox transformation unsuccessful. Exited the method get_trainingData
+
+2021-10-08/18:26:27	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:26:27	Data loaded successfully as a dataframe.
+
+2021-10-08/18:26:27	Data type conversion performed successfully.
+
+2021-10-08/18:26:27	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:26:27	Exception while performing BoxCox transformation'. Exception :Data must not be constant.
+
+2021-10-08/18:26:27	BoxCox transformation unsuccessful. Exited the method get_trainingData
+
+2021-10-08/18:27:12	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:27:12	Data loaded successfully as a dataframe.
+
+2021-10-08/18:27:12	Data type conversion performed successfully.
+
+2021-10-08/18:27:12	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:27:12	Exception while performing BoxCox transformation'. Exception :Data must not be constant.
+
+2021-10-08/18:27:12	BoxCox transformation unsuccessful. Exited the method get_trainingData
+
+2021-10-08/18:32:43	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:32:43	Data loaded successfully as a dataframe.
+
+2021-10-08/18:32:43	Data type conversion performed successfully.
+
+2021-10-08/18:32:43	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:32:43	Exception while performing BoxCox transformation'. Exception :Data must not be constant.
+
+2021-10-08/18:32:43	BoxCox transformation unsuccessful. Exited the method get_trainingData
+
+2021-10-08/18:38:59	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:38:59	Data loaded successfully as a dataframe.
+
+2021-10-08/18:38:59	Data type conversion performed successfully.
+
+2021-10-08/18:38:59	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:38:59	Successfully performed BoxCox transformation.
+
+2021-10-08/18:38:59	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:38:59	Successfully concatenated all the dataframes
+
+2021-10-08/18:38:59	Exception occured while dropping the columns. Exception :"['CHAS' 'NOX' 'PTRATIO'] not found in axis"
+
+2021-10-08/18:38:59	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:39:24	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:39:24	Data loaded successfully as a dataframe.
+
+2021-10-08/18:39:24	Data type conversion performed successfully.
+
+2021-10-08/18:39:24	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:39:24	Successfully performed BoxCox transformation.
+
+2021-10-08/18:39:24	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:39:24	Successfully concatenated all the dataframes
+
+2021-10-08/18:39:24	Exception occured while dropping the columns. Exception :"['CHAS' 'NOX' 'PTRATIO'] not found in axis"
+
+2021-10-08/18:39:24	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:42:21	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:42:21	Data loaded successfully as a dataframe.
+
+2021-10-08/18:42:21	Data type conversion performed successfully.
+
+2021-10-08/18:42:21	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:42:21	Successfully performed BoxCox transformation.
+
+2021-10-08/18:42:21	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:42:21	Successfully concatenated all the dataframes
+
+2021-10-08/18:42:21	Exception occured while dropping the columns. Exception :"['CHAS' 'NOX' 'PTRATIO'] not found in axis"
+
+2021-10-08/18:42:21	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:44:25	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:44:25	Data loaded successfully as a dataframe.
+
+2021-10-08/18:44:25	Data type conversion performed successfully.
+
+2021-10-08/18:44:25	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:44:25	Successfully performed BoxCox transformation.
+
+2021-10-08/18:44:25	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:44:25	Successfully concatenated all the dataframes
+
+2021-10-08/18:44:25	Exception occured while dropping the columns. Exception :"['CHAS' 'NOX' 'PTRATIO'] not found in axis"
+
+2021-10-08/18:44:25	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:49:01	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:49:01	Data loaded successfully as a dataframe.
+
+2021-10-08/18:49:01	Data type conversion performed successfully.
+
+2021-10-08/18:49:01	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:49:01	Successfully performed BoxCox transformation.
+
+2021-10-08/18:49:01	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:49:01	Successfully concatenated all the dataframes
+
+2021-10-08/18:49:01	Exception occured while dropping the columns. Exception :"['CHAS' 'NOX' 'PTRATIO'] not found in axis"
+
+2021-10-08/18:49:01	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:50:24	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:50:24	Data loaded successfully as a dataframe.
+
+2021-10-08/18:50:24	Data type conversion performed successfully.
+
+2021-10-08/18:50:24	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:50:24	Successfully performed BoxCox transformation.
+
+2021-10-08/18:50:24	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:50:24	Successfully concatenated all the dataframes
+
+2021-10-08/18:50:24	Exception occured while dropping the columns. Exception :"['CHAS'] not found in axis"
+
+2021-10-08/18:50:24	Failed to drop the columns. Exited the method get_trainingData.
+
+2021-10-08/18:52:53	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/18:52:53	Data loaded successfully as a dataframe.
+
+2021-10-08/18:52:53	Data type conversion performed successfully.
+
+2021-10-08/18:52:53	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/18:52:53	Successfully performed BoxCox transformation.
+
+2021-10-08/18:52:53	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/18:52:53	Successfully concatenated all the dataframes
+
+2021-10-08/18:52:53	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:02:12	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:02:12	Data loaded successfully as a dataframe.
+
+2021-10-08/19:02:12	Data type conversion performed successfully.
+
+2021-10-08/19:02:12	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:02:12	Successfully performed BoxCox transformation.
+
+2021-10-08/19:02:12	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:02:12	Successfully concatenated all the dataframes
+
+2021-10-08/19:02:12	(1, 10)
+
+2021-10-08/19:02:12	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:02:12	Successfully cleaned the entire data.
+
+2021-10-08/19:17:59	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:17:59	Data loaded successfully as a dataframe.
+
+2021-10-08/19:17:59	Data type conversion performed successfully.
+
+2021-10-08/19:17:59	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:17:59	Successfully performed BoxCox transformation.
+
+2021-10-08/19:17:59	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:17:59	Successfully concatenated all the dataframes
+
+2021-10-08/19:17:59	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:19:42	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:19:42	Data loaded successfully as a dataframe.
+
+2021-10-08/19:19:42	Data type conversion performed successfully.
+
+2021-10-08/19:19:42	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:19:42	Successfully performed BoxCox transformation.
+
+2021-10-08/19:19:42	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:19:42	Successfully concatenated all the dataframes
+
+2021-10-08/19:19:42	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:23:12	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:23:12	Data loaded successfully as a dataframe.
+
+2021-10-08/19:23:12	Data type conversion performed successfully.
+
+2021-10-08/19:23:12	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:23:12	Successfully performed BoxCox transformation.
+
+2021-10-08/19:23:12	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:23:12	Successfully concatenated all the dataframes
+
+2021-10-08/19:23:12	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:23:12	Successfully cleaned the input data
+
+2021-10-08/19:24:12	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:24:12	Data loaded successfully as a dataframe.
+
+2021-10-08/19:24:12	Data type conversion performed successfully.
+
+2021-10-08/19:24:12	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:24:12	Successfully performed BoxCox transformation.
+
+2021-10-08/19:24:12	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:24:12	Successfully concatenated all the dataframes
+
+2021-10-08/19:24:12	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:24:12	Successfully cleaned the input data
+
+2021-10-08/19:26:29	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/19:26:29	Data loaded successfully as a dataframe.
+
+2021-10-08/19:26:29	Data type conversion performed successfully.
+
+2021-10-08/19:26:29	Successfully binarized 'RAD', 'ZN' and 'B'.
+
+2021-10-08/19:26:29	Successfully performed BoxCox transformation.
+
+2021-10-08/19:26:29	Successfully performed One Hot Encoding on 'INDUS', 'RM'.
+
+2021-10-08/19:26:29	Successfully concatenated all the dataframes
+
+2021-10-08/19:26:29	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO', 'INDUS', 'RM'
+
+2021-10-08/19:26:29	Successfully cleaned the input data
+
+2021-10-08/20:09:26	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:09:26	Data loaded successfully as a dataframe.
+
+2021-10-08/20:09:26	Exception while performing datatype conversion. Exception :'INDUS'
+
+2021-10-08/20:09:26	Datatype conversion unsuccessful. Exited the method get_trainingData
+
+2021-10-08/20:39:18	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:39:18	Data loaded successfully as a dataframe.
+
+2021-10-08/20:39:18	Data type conversion performed successfully.
+
+2021-10-08/20:39:18	Successfully performed BoxCox transformation.
+
+2021-10-08/20:39:18	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:39:18	Successfully cleaned the input data
+
+2021-10-08/20:47:31	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:47:31	Data loaded successfully as a dataframe.
+
+2021-10-08/20:47:31	Data type conversion performed successfully.
+
+2021-10-08/20:47:31	Successfully performed BoxCox transformation.
+
+2021-10-08/20:47:31	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:47:31	Successfully cleaned the input data
+
+2021-10-08/20:50:28	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:50:28	Data loaded successfully as a dataframe.
+
+2021-10-08/20:50:28	Data type conversion performed successfully.
+
+2021-10-08/20:50:28	Successfully performed BoxCox transformation.
+
+2021-10-08/20:50:28	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:50:28	Successfully cleaned the input data
+
+2021-10-08/20:51:10	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:51:10	Data loaded successfully as a dataframe.
+
+2021-10-08/20:51:10	Data type conversion performed successfully.
+
+2021-10-08/20:51:10	Successfully performed BoxCox transformation.
+
+2021-10-08/20:51:10	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:51:10	Successfully cleaned the input data
+
+2021-10-08/20:51:31	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:51:31	Data loaded successfully as a dataframe.
+
+2021-10-08/20:51:31	Data type conversion performed successfully.
+
+2021-10-08/20:51:31	Successfully performed BoxCox transformation.
+
+2021-10-08/20:51:31	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:51:31	Successfully cleaned the input data
+
+2021-10-08/20:53:36	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:53:36	Data loaded successfully as a dataframe.
+
+2021-10-08/20:53:36	Data type conversion performed successfully.
+
+2021-10-08/20:53:36	Successfully performed BoxCox transformation.
+
+2021-10-08/20:53:36	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:53:36	Successfully cleaned the input data
+
+2021-10-08/20:54:01	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:54:01	Data loaded successfully as a dataframe.
+
+2021-10-08/20:54:01	Data type conversion performed successfully.
+
+2021-10-08/20:54:01	Successfully performed BoxCox transformation.
+
+2021-10-08/20:54:01	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:54:01	Successfully cleaned the input data
+
+2021-10-08/20:54:20	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:54:20	Data loaded successfully as a dataframe.
+
+2021-10-08/20:54:20	Data type conversion performed successfully.
+
+2021-10-08/20:54:20	Successfully performed BoxCox transformation.
+
+2021-10-08/20:54:20	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:54:20	Successfully cleaned the input data
+
+2021-10-08/20:54:51	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:54:51	Data loaded successfully as a dataframe.
+
+2021-10-08/20:54:51	Data type conversion performed successfully.
+
+2021-10-08/20:54:51	Successfully performed BoxCox transformation.
+
+2021-10-08/20:54:51	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:54:51	Successfully cleaned the input data
+
+2021-10-08/20:59:49	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-08/20:59:49	Data loaded successfully as a dataframe.
+
+2021-10-08/20:59:49	Data type conversion performed successfully.
+
+2021-10-08/20:59:49	Successfully performed BoxCox transformation.
+
+2021-10-08/20:59:49	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-08/20:59:49	Successfully cleaned the input data
+
+2021-10-09/09:12:52	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/09:12:52	Data loaded successfully as a dataframe.
+
+2021-10-09/09:12:52	Data type conversion performed successfully.
+
+2021-10-09/09:12:52	Successfully performed BoxCox transformation.
+
+2021-10-09/09:12:52	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/09:12:52	Successfully cleaned the input data
+
+2021-10-09/09:18:02	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/09:18:02	Data loaded successfully as a dataframe.
+
+2021-10-09/09:18:02	Data type conversion performed successfully.
+
+2021-10-09/09:18:02	Successfully performed BoxCox transformation.
+
+2021-10-09/09:18:02	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/09:18:02	Successfully cleaned the input data
+
+2021-10-09/09:38:24	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/09:38:24	Data loaded successfully as a dataframe.
+
+2021-10-09/09:38:24	Data type conversion performed successfully.
+
+2021-10-09/09:38:24	Successfully performed BoxCox transformation.
+
+2021-10-09/09:38:24	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/09:38:24	Successfully cleaned the input data
+
+2021-10-09/09:39:44	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/09:39:44	Data loaded successfully as a dataframe.
+
+2021-10-09/09:39:44	Data type conversion performed successfully.
+
+2021-10-09/09:39:44	Successfully performed BoxCox transformation.
+
+2021-10-09/09:39:44	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/09:39:44	Successfully cleaned the input data
+
+2021-10-09/10:22:28	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/10:22:28	Data loaded successfully as a dataframe.
+
+2021-10-09/10:22:28	Data type conversion performed successfully.
+
+2021-10-09/10:22:28	Successfully performed BoxCox transformation.
+
+2021-10-09/10:22:28	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/10:22:28	Successfully cleaned the input data
