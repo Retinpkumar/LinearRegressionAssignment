@@ -11,12 +11,12 @@ logfile_path = 'LogFiles/prediction_log.txt'
 logger_object = Logger()
 
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
 @cross_origin()
 def home_page():
     return render_template("home.html")
 
-@app.route('/predict', methods=['GET', 'POST'])
+@app.route('/predict', methods=['POST'])
 @cross_origin()
 def result_page():
     logfile = open(logfile_path, mode='a')
