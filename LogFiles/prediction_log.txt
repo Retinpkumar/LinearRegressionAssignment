@@ -598,3 +598,73 @@
 2021-10-09/10:21:48	Successfully standardized input data.
 
 2021-10-09/10:21:48	Successfully loaded the model for prediction.
+
+2021-10-09/13:56:37	Preparing for obtaining user input.'
+
+2021-10-09/13:56:37	User input obtained successfully.
+
+2021-10-09/13:56:37	Successfully converted User input to 'test.csv'.
+
+2021-10-09/13:56:37	Successfully cleaned user input.
+
+2021-10-09/13:56:37	Successfully loaded the scaler file.
+
+2021-10-09/13:56:37	Successfully standardized input data.
+
+2021-10-09/13:56:37	Successfully loaded the model for prediction.
+
+2021-10-09/13:56:37	Preparing for obtaining user input.'
+
+2021-10-09/13:56:37	User input obtained successfully.
+
+2021-10-09/13:56:37	Successfully converted User input to 'test.csv'.
+
+2021-10-09/13:56:37	Successfully cleaned user input.
+
+2021-10-09/13:56:37	Successfully loaded the scaler file.
+
+2021-10-09/13:56:37	Successfully standardized input data.
+
+2021-10-09/13:56:37	Successfully loaded the model for prediction.
+
+2021-10-09/13:56:37	Preparing for obtaining user input.'
+
+2021-10-09/13:56:37	User input obtained successfully.
+
+2021-10-09/13:56:37	Successfully converted User input to 'test.csv'.
+
+2021-10-09/13:56:37	Successfully cleaned user input.
+
+2021-10-09/13:56:37	Successfully loaded the scaler file.
+
+2021-10-09/13:56:37	Successfully standardized input data.
+
+2021-10-09/13:56:37	Successfully loaded the model for prediction.
+
+2021-10-09/14:32:44	Preparing for obtaining user input.'
+
+2021-10-09/14:32:44	User input obtained successfully.
+
+2021-10-09/14:32:44	Successfully converted User input to 'test.csv'.
+
+2021-10-09/14:32:44	Successfully cleaned user input.
+
+2021-10-09/14:32:44	Successfully loaded the scaler file.
+
+2021-10-09/14:32:44	Successfully standardized input data.
+
+2021-10-09/14:32:44	Successfully loaded the model for prediction.
+
+2021-10-09/14:32:44	Preparing for obtaining user input.'
+
+2021-10-09/14:32:44	User input obtained successfully.
+
+2021-10-09/14:32:44	Successfully converted User input to 'test.csv'.
+
+2021-10-09/14:32:44	Successfully cleaned user input.
+
+2021-10-09/14:32:44	Successfully loaded the scaler file.
+
+2021-10-09/14:32:44	Successfully standardized input data.
+
+2021-10-09/14:32:44	Successfully loaded the model for prediction.

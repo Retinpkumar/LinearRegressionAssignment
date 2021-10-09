@@ -500,3 +500,63 @@
 2021-10-09/10:22:28	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
 
 2021-10-09/10:22:28	Successfully cleaned the input data
+
+2021-10-09/13:57:21	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/13:57:21	Data loaded successfully as a dataframe.
+
+2021-10-09/13:57:21	Data type conversion performed successfully.
+
+2021-10-09/13:57:21	Successfully performed BoxCox transformation.
+
+2021-10-09/13:57:21	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/13:57:21	Successfully cleaned the input data
+
+2021-10-09/13:57:45	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/13:57:45	Data loaded successfully as a dataframe.
+
+2021-10-09/13:57:45	Data type conversion performed successfully.
+
+2021-10-09/13:57:45	Successfully performed BoxCox transformation.
+
+2021-10-09/13:57:45	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/13:57:45	Successfully cleaned the input data
+
+2021-10-09/13:57:50	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/13:57:50	Data loaded successfully as a dataframe.
+
+2021-10-09/13:57:50	Data type conversion performed successfully.
+
+2021-10-09/13:57:50	Successfully performed BoxCox transformation.
+
+2021-10-09/13:57:50	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/13:57:50	Successfully cleaned the input data
+
+2021-10-09/14:34:32	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/14:34:32	Data loaded successfully as a dataframe.
+
+2021-10-09/14:34:32	Data type conversion performed successfully.
+
+2021-10-09/14:34:32	Successfully performed BoxCox transformation.
+
+2021-10-09/14:34:32	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/14:34:32	Successfully cleaned the input data
+
+2021-10-09/14:40:57	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-09/14:40:57	Data loaded successfully as a dataframe.
+
+2021-10-09/14:40:57	Data type conversion performed successfully.
+
+2021-10-09/14:40:57	Successfully performed BoxCox transformation.
+
+2021-10-09/14:40:57	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-09/14:40:57	Successfully cleaned the input data
