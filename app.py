@@ -5,7 +5,7 @@ import pandas as pd
 from Data_Preprocessing.data_processing import DataProcessor
 from application_logger.app_logger import Logger
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 logfile_path = 'LogFiles/prediction_log.txt'
 logger_object = Logger()
@@ -216,4 +216,4 @@ def result_page():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
