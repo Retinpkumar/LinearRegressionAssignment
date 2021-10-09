@@ -14,7 +14,7 @@ logger_object = Logger()
 @app.route('/', methods=['GET', 'POST'])
 @cross_origin()
 def home_page():
-    return render_template("Templates/index.html")
+    return render_template("home.html")
 
 @app.route('/predict', methods=['GET', 'POST'])
 @cross_origin()
@@ -203,7 +203,7 @@ def result_page():
             logfile = open(logfile_path, mode='a')
             prediction = loaded_model.predict(df_test_scaled)
             print("Prediction is :", prediction)
-            return render_template("Templates/result.html", prediction=prediction[0].round(2))
+            return render_template("after.html", prediction=prediction[0].round(2))
             logger_object.log(logfile, "Successfully predicted the output.")
             logfile.close()
         except Exception as e:
@@ -212,7 +212,7 @@ def result_page():
             logfile.close()
             raise Exception()
     else:
-        return render_template("Templates/index.html")
+        return render_template("home.html")
 
 
 if __name__ == "__main__":
