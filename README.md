@@ -4,7 +4,7 @@ This is the first linear regression assignment for the course "Machine Learning 
 
 ## Installation
 
-Inorder to use the app on your local system, make sure to activate the environment and load the dependancies. You can do that by typing in the command line:
+Inorder to use the source code on your local system, make sure to activate the environment and load the dependancies. You can do that by typing in the command line:
 
 ```bash
 pip install -r requirements.txt
