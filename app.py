@@ -47,8 +47,10 @@ def result_page():
                                     "ZN": zn,
                                     "AGE": age,
                                     "DIS": dis,
+                                    "RAD": rad,
                                     "TAX": tax,
-                                    "LSTAT": lstat,}, index=[1])
+                                    "B": b,
+                                    "LSTAT": lstat}, index=[1])
 
             # Input for RAD
             if rad < 9:
@@ -63,25 +65,6 @@ def result_page():
                 df_pred['B'] = 1
 
             # Input for INDUS
-            df_pred['INDUS_1'] = 0
-            df_pred['INDUS_2'] = 0
-            df_pred['INDUS_3'] = 0
-            df_pred['INDUS_4'] = 0
-            df_pred['INDUS_5'] = 0
-            df_pred['INDUS_6'] = 0
-            df_pred['INDUS_7'] = 0
-            df_pred['INDUS_8'] = 0
-            df_pred['INDUS_9'] = 0
-            df_pred['INDUS_10'] = 0
-            df_pred['INDUS_11'] = 0
-            df_pred['INDUS_12'] = 0
-            df_pred['INDUS_13'] = 0
-            df_pred['INDUS_15'] = 0
-            df_pred['INDUS_18'] = 0
-            df_pred['INDUS_19'] = 0
-            df_pred['INDUS_21'] = 0
-            df_pred['INDUS_25'] = 0
-            df_pred['INDUS_27'] = 0
             if indus == 1:
                 df_pred['INDUS_1'] = 1
             elif indus == 2:
@@ -121,14 +104,27 @@ def result_page():
             elif indus == 27:
                 df_pred['INDUS_27'] = 1
             else:
-                pass
+                df_pred['INDUS_1'] = 0
+                df_pred['INDUS_2'] = 0
+                df_pred['INDUS_3'] = 0
+                df_pred['INDUS_4'] = 0
+                df_pred['INDUS_5'] = 0
+                df_pred['INDUS_6'] = 0
+                df_pred['INDUS_7'] = 0
+                df_pred['INDUS_8'] = 0
+                df_pred['INDUS_9'] = 0
+                df_pred['INDUS_10'] = 0
+                df_pred['INDUS_11'] = 0
+                df_pred['INDUS_12'] = 0
+                df_pred['INDUS_13'] = 0
+                df_pred['INDUS_15'] = 0
+                df_pred['INDUS_18'] = 0
+                df_pred['INDUS_19'] = 0
+                df_pred['INDUS_21'] = 0
+                df_pred['INDUS_25'] = 0
+                df_pred['INDUS_27'] = 0
 
             # Input for RM
-            df_pred['RM_4'] = 0
-            df_pred['RM_5'] = 0
-            df_pred['RM_6'] = 0
-            df_pred['RM_7'] = 0
-            df_pred['RM_8'] = 0
             if rm == 4:
                 df_pred['RM_4'] = 1
             elif rm == 5:
@@ -140,7 +136,11 @@ def result_page():
             elif rm == 8:
                 df_pred['RM_8'] = 1
             else:
-                pass
+                df_pred['RM_4'] = 0
+                df_pred['RM_5'] = 0
+                df_pred['RM_6'] = 0
+                df_pred['RM_7'] = 0
+                df_pred['RM_8'] = 0
 
             df_pred.to_csv('UserInput/test.csv')
             logger_object.log(logfile, "Successfully converted User input to 'test.csv'.")
