@@ -560,3 +560,15 @@
 2021-10-09/14:40:57	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
 
 2021-10-09/14:40:57	Successfully cleaned the input data
+
+2021-10-10/13:02:17	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2021-10-10/13:02:17	Data loaded successfully as a dataframe.
+
+2021-10-10/13:02:17	Data type conversion performed successfully.
+
+2021-10-10/13:02:17	Successfully performed BoxCox transformation.
+
+2021-10-10/13:02:17	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
+
+2021-10-10/13:02:17	Successfully cleaned the input data

@@ -668,3 +668,17 @@
 2021-10-09/14:32:44	Successfully standardized input data.
 
 2021-10-09/14:32:44	Successfully loaded the model for prediction.
+
+2021-10-10/13:02:00	Preparing for obtaining user input.'
+
+2021-10-10/13:02:00	User input obtained successfully.
+
+2021-10-10/13:02:00	Successfully converted User input to 'test.csv'.
+
+2021-10-10/13:02:00	Successfully cleaned user input.
+
+2021-10-10/13:02:00	Successfully loaded the scaler file.
+
+2021-10-10/13:02:00	Successfully standardized input data.
+
+2021-10-10/13:02:00	Successfully loaded the model for prediction.
