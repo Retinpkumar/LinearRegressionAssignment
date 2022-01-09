@@ -572,3 +572,51 @@
 2021-10-10/13:02:17	Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'
 
 2021-10-10/13:02:17	Successfully cleaned the input data
+
+2022-01-09/19:01:32	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:01:32	Data loaded successfully as a dataframe.
+
+2022-01-09/19:01:32	Log transformation performed successfully.
+
+2022-01-09/19:01:32	Power transformation performed successfully.
+
+2022-01-09/19:09:57	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:09:57	Data loaded successfully as a dataframe.
+
+2022-01-09/19:09:57	Log transformation performed successfully.
+
+2022-01-09/19:09:57	Power transformation performed successfully.
+
+2022-01-09/19:12:45	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:12:45	Data loaded successfully as a dataframe.
+
+2022-01-09/19:12:45	Log transformation performed successfully.
+
+2022-01-09/19:12:45	Power transformation performed successfully.
+
+2022-01-09/19:25:30	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:25:30	Data loaded successfully as a dataframe.
+
+2022-01-09/19:25:30	Log transformation performed successfully.
+
+2022-01-09/19:25:30	Power transformation performed successfully.
+
+2022-01-09/19:30:28	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:30:28	Data loaded successfully as a dataframe.
+
+2022-01-09/19:30:28	Log transformation performed successfully.
+
+2022-01-09/19:30:28	Power transformation performed successfully.
+
+2022-01-09/19:31:42	Accessing the method 'cleanData' from class 'DataProcessor'
+
+2022-01-09/19:31:42	Data loaded successfully as a dataframe.
+
+2022-01-09/19:31:42	Log transformation performed successfully.
+
+2022-01-09/19:31:42	Power transformation performed successfully.

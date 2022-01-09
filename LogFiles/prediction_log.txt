@@ -682,3 +682,95 @@
 2021-10-10/13:02:00	Successfully standardized input data.
 
 2021-10-10/13:02:00	Successfully loaded the model for prediction.
+
+2022-01-09/18:56:27	Preparing for obtaining user input.'
+
+2022-01-09/18:56:27	Exception occured while obtaining user input. Exception :name 'sn' is not defined
+
+2022-01-09/18:56:27	Failed to obtain user input.
+
+2022-01-09/18:56:27	Preparing for obtaining user input.'
+
+2022-01-09/18:56:27	Exception occured while obtaining user input. Exception :name 'sn' is not defined
+
+2022-01-09/18:56:27	Failed to obtain user input.
+
+2022-01-09/18:59:47	Preparing for obtaining user input.'
+
+2022-01-09/18:59:47	User input obtained successfully.
+
+2022-01-09/18:59:47	Exception occured while processing user input. Exception :__init__() missing 1 required positional argument: 'df'
+
+2022-01-09/18:59:47	Failed to process user input.
+
+2022-01-09/19:01:18	Preparing for obtaining user input.'
+
+2022-01-09/19:01:18	User input obtained successfully.
+
+2022-01-09/19:01:18	Successfully processed the user input.
+
+2022-01-09/19:01:18	Successfully loaded the scaler file.
+
+2022-01-09/19:01:18	Exception occured while standardizing. Exception :Found array with 0 sample(s) (shape=(0, 13)) while a minimum of 1 is required by StandardScaler.
+
+2022-01-09/19:01:18	Failed to standardize the input data.
+
+2022-01-09/19:09:40	Preparing for obtaining user input.'
+
+2022-01-09/19:09:40	User input obtained successfully.
+
+2022-01-09/19:09:40	Successfully processed the user input.
+
+2022-01-09/19:09:40	Successfully loaded the scaler file.
+
+2022-01-09/19:09:40	Exception occured while standardizing. Exception :Found array with 0 sample(s) (shape=(0, 13)) while a minimum of 1 is required by StandardScaler.
+
+2022-01-09/19:09:40	Failed to standardize the input data.
+
+2022-01-09/19:12:27	Preparing for obtaining user input.'
+
+2022-01-09/19:12:27	User input obtained successfully.
+
+2022-01-09/19:12:27	Successfully processed the user input.
+
+2022-01-09/19:12:27	Successfully loaded the scaler file.
+
+2022-01-09/19:12:27	Exception occured while standardizing. Exception :Found array with 0 sample(s) (shape=(0, 13)) while a minimum of 1 is required by StandardScaler.
+
+2022-01-09/19:12:27	Failed to standardize the input data.
+
+2022-01-09/19:25:18	Preparing for obtaining user input.'
+
+2022-01-09/19:25:18	User input obtained successfully.
+
+2022-01-09/19:25:18	Successfully processed the user input.
+
+2022-01-09/19:25:18	Successfully loaded the scaler file.
+
+2022-01-09/19:25:18	Exception occured while standardizing. Exception :Found array with 0 sample(s) (shape=(0, 13)) while a minimum of 1 is required by StandardScaler.
+
+2022-01-09/19:25:18	Failed to standardize the input data.
+
+2022-01-09/19:30:10	Preparing for obtaining user input.'
+
+2022-01-09/19:30:10	User input obtained successfully.
+
+2022-01-09/19:30:10	Successfully processed the user input.
+
+2022-01-09/19:30:10	Successfully loaded the scaler file.
+
+2022-01-09/19:30:10	Successfully standardized input data.
+
+2022-01-09/19:30:10	Successfully loaded the model for prediction.
+
+2022-01-09/19:31:23	Preparing for obtaining user input.'
+
+2022-01-09/19:31:23	User input obtained successfully.
+
+2022-01-09/19:31:23	Successfully processed the user input.
+
+2022-01-09/19:31:23	Successfully loaded the scaler file.
+
+2022-01-09/19:31:23	Successfully standardized input data.
+
+2022-01-09/19:31:23	Successfully loaded the model for prediction.

@@ -51,7 +51,7 @@
                         <form action="/predict" method="POST">
                             <br>
                             <div class="col-12" align="left">
-                                <!-- Input 1 -->
+                                <!-- Input CRIM -->
                                 <div class="row">
                                     <div class="col-8">
                                         <label for="crim">Per capita crime rate</label>
@@ -61,131 +61,126 @@
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 2 -->
+                                <!-- Input ZN -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="zn">Zoned land proportion for lots above 25,000sq.ft</label>
+                                        <label for="zn">Proportion of residential land zoned for lots over 25,000 sq.ft</label>
                                     </div>
                                     <div class="col-4" align="right">
-                                        <select class="form-select" placeholder="ZN" id="zn" name="zn" type="number" required="required">
-                                            <option value=0 selected hidden>Select an option</option>
-                                            <option value=0>0</option>
-                                            <option value=1>1</option>
-                                        </select>
+                                        <input type="number" step=any placeholder="ZN" class="form-control" id="zn" name="zn" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 3 -->
+                                <!-- Input INDUS -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="age">Proportion of owner occupied units prior to 1940</label>
+                                        <label for="indus">Proportion of non-retail business acres per town</label>
+                                    </div>
+                                    <div class="col-4" align="right">
+                                        <input type="number" step=any placeholder="INDUS" class="form-control" id="indus" name="indus" required="required">
+                                    </div>
+                                </div>
+                                <br>
+                                <!-- Input CHAS -->
+                                <div class="row">
+                                    <div class="col-8">
+                                        <label for="chas">Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</label>
+                                    </div>
+                                    <div class="col-4" align="right">
+                                        <input type="number" step=any placeholder="CHAS" class="form-control" id="chas" name="chas" required="required">
+                                    </div>
+                                </div>
+                                <br>
+                                <!-- Input NOX -->
+                                <div class="row">
+                                    <div class="col-8">
+                                        <label for="nox">Nitrogen oxides concentration (parts per 10 million)</label>
+                                    </div>
+                                    <div class="col-4" align="right">
+                                        <input type="number" step=any placeholder="NOX" class="form-control" id="nox" name="nox" required="required">
+                                    </div>
+                                </div>
+                                <br>
+                                <!-- Input RM -->
+                                <div class="row">
+                                    <div class="col-8">
+                                        <label for="rm">Average number of rooms per dwelling.</label>
+                                    </div>
+                                    <div class="col-4" align="right">
+                                        <input type="number" step=any placeholder="RM" class="form-control" id="rm" name="rm" required="required">
+                                    </div>
+                                </div>
+                                <br>
+                                <!-- Input AGE -->
+                                <div class="row">
+                                    <div class="col-8">
+                                        <label for="age">Proportion of owner-occupied units built prior to 1940</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="AGE" class="form-control" id="age" name="age" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 4 -->
+                                <!-- Input DIS -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="dis">Distance to Employment center</label>
+                                        <label for="dis">Weighted mean of distances to five Boston employment centres</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="DIS" class="form-control" id="dis" name="dis" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 5 -->
+                                <!-- Input RAD -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="rad">Index of accessiblity to Radial Highways</label>
+                                        <label for="rad">Index of accessibility to radial highways</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="RAD" class="form-control" id="rad" name="rad" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 6 -->
+                                <!-- Input TAX -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="tax">Full value property Tax rate</label>
+                                        <label for="tax">Full-value property-tax rate per \$10,000</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="TAX" class="form-control" id="tax" name="tax" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 7 -->
+                                <!-- Input PTRATIO -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="b">Proportion of Afro-Americans</label>
+                                        <label for="ptratio">Pupil-teacher ratio by town</label>
+                                    </div>
+                                    <div class="col-4" align="right">
+                                        <input type="number" step=any placeholder="PTRATIO" class="form-control" id="ptratio" name="ptratio" required="required">
+                                    </div>
+                                </div>
+                                <br>
+                                <!-- Input B -->
+                                <div class="row">
+                                    <div class="col-8">
+                                        <label for="b">Value=1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="B" class="form-control" id="b" name="b" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 8 -->
+                                <!-- Input LSTAT -->
                                 <div class="row">
                                     <div class="col-8">
-                                        <label for="lstat">Percentage lower status of the people</label>
+                                        <label for="lstat">Lower status of the population (percent)</label>
                                     </div>
                                     <div class="col-4" align="right">
                                         <input type="number" step=any placeholder="LSTAT" class="form-control" id="lstat" name="lstat" required="required">
                                     </div>
                                 </div>
                                 <br>
-                                <!-- Input 9 -->
-                                <div class="row">
-                                    <div class="col-8">
-                                        <label for="indus">Proportion of non-retail business acres</label>
-                                    </div>
-                                    <div class="col-4" align="right">
-                                        <select class="form-select" placeholder="INDUS" id="indus" name="indus" type="number" required="required">
-                                            <option value=0 selected hidden>
-                                                Select an option
-                                            </option>
-                                            <option value=1>1</option>
-                                            <option value=2>2</option>
-                                            <option value=3>3</option>
-                                            <option value=4>4</option>
-                                            <option value=5>5</option>
-                                            <option value=6>6</option>
-                                            <option value=7>7</option>
-                                            <option value=8>8</option>
-                                            <option value=9>9</option>
-                                            <option value=10>10</option>
-                                            <option value=11>11</option>
-                                            <option value=12>12</option>
-                                            <option value=13>13</option>
-                                            <option value=15>15</option>
-                                            <option value=18>18</option>
-                                            <option value=19>19</option>
-                                            <option value=21>21</option>
-                                            <option value=25>25</option>
-                                            <option value=27>27</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <br>
-                                <!-- Input 10 -->
-                                 <div class="row">
-                                    <div class="col-8">
-                                        <label for="rm">Average number of rooms per house</label>
-                                    </div>
-                                    <div class="col-4" align="right">
-                                        <select class="form-select" placeholder="RM" id="rm" name="rm" type="number" required="required">
-                                            <option value=3 selected hidden >
-                                                Select an option
-                                            </option>
-                                            <option value=4>4</option>
-                                            <option value=5>5</option>
-                                            <option value=6>6</option>
-                                            <option value=7>7</option>
-                                            <option value=8>8</option>
-                                        </select>
-                                    </div>
-                                </div>
                             </div>
                             <br>
                             <!-- Predict Button-->

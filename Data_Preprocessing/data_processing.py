@@ -10,16 +10,11 @@ class DataProcessor:
     This class is used for cleaning the raw data before it is fed to the model.
     Written by: Retin P Kumar
     """
-    def __init__(self):
-        self.file = 'UserInput/test.csv'
+    def __init__(self, df):
+        self.df = df
         self.logger_object = Logger()
         self.logfile_path = 'LogFiles/preprocessing_log.txt'
-        self.df = pd.read_csv(self.file, index_col=0)  # Creating a dataframe
-        self.dtype_feat = ['RAD']
-        self.boxcox_feat = ['CRIM', 'DIS', 'LSTAT']
-        self.drop_cols = ['CHAS', 'NOX', 'PTRATIO']
         self.logfile = open(self.logfile_path, mode='a')
-        self.scaler = StandardScaler()
 
     def cleanData(self):
         """
@@ -41,43 +36,28 @@ class DataProcessor:
 
         try:
             self.logfile = open(self.logfile_path, mode='a')
-            for feat in self.dtype_feat:  # Changing data types
-                self.df[feat] = self.df[feat].astype('int')
-                self.df[feat] = self.df[feat].astype('category')
-            self.logger_object.log(self.logfile, "Data type conversion performed successfully.")
+            #log transformation
+            for col in ['NOX','DIS','LSTAT']:
+                    self.df[col] = np.log1p(self.df[col])
+            self.logger_object.log(self.logfile, "Log transformation performed successfully.")
             self.logfile.close()
         except Exception as e:
-            self.logger_object.log(self.logfile, "Exception while performing datatype conversion. Exception :" + str(e))
-            self.logger_object.log(self.logfile, "Datatype conversion unsuccessful. Exited the method get_trainingData")
+            self.logger_object.log(self.logfile, "Exception while performing log transformation. Exception :" + str(e))
+            self.logger_object.log(self.logfile, "Log transformation unsuccessful. Exited the method get_trainingData")
             self.logfile.close()
             raise Exception()
-
+        
         try:
             self.logfile = open(self.logfile_path, mode='a')
-            # Log/BoxCox transform
-            for bfeat in self.boxcox_feat:
-                self.df[bfeat] = np.log1p(self.df[bfeat])
-            self.logger_object.log(self.logfile, "Successfully performed BoxCox transformation.")
+            #Power transformation
+            for col in ['CRIM', 'ZN']:
+                    self.df[col] = np.power(self.df[col], 0.03125)
+            self.logger_object.log(self.logfile, "Power transformation performed successfully.")
             self.logfile.close()
         except Exception as e:
-            self.logger_object.log(self.logfile, "Exception while performing BoxCox transformation'. Exception :" + str(e))
-            self.logger_object.log(self.logfile, "BoxCox transformation unsuccessful. Exited the method get_trainingData")
+            self.logger_object.log(self.logfile, "Exception while performing power transformation. Exception :" + str(e))
+            self.logger_object.log(self.logfile, "Power transformation unsuccessful. Exited the method get_trainingData")
             self.logfile.close()
             raise Exception()
-
-        try:
-            self.logfile = open(self.logfile_path, mode='a')
-            # Dropping columns
-            for col in self.drop_cols:
-                if col in self.df.columns:
-                    self.df = self.df.drop(columns=col, axis=1)
-            self.logger_object.log(self.logfile, "Successfully dropped the columns: 'CHAS', 'NOX', 'PTRATIO'")
-            self.logger_object.log(self.logfile,"Successfully cleaned the input data")
-            self.logfile.close()
-        except Exception as e:
-            self.logger_object.log(self.logfile, "Exception occured while dropping the columns. Exception :" + str(e))
-            self.logger_object.log(self.logfile, "Failed to drop the columns. Exited the method get_trainingData.")
-            self.logfile.close()
-            raise Exception()
-
+                       
         return self.df
